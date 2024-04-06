@@ -3,10 +3,9 @@
 Using ML in Predicting Car Insurance Sales
 
 - Data Overview: Analyzed data for 304,887 customers, identifying a target variable imbalance with only 12.2% showing interest in car insurance.
-
-Key Findings from EDA:
-Variables like gender and driving license had minimal impact.
-Past accidents and loyalty status (switch) were significant predictors.
+- Key Findings from EDA:
+  - Variables like gender and driving license had minimal impact.
+  - Past accidents and loyalty status (switch) were significant predictors.
 Data Preparation:
 Used KNN imputer for numerical and mode imputation for categorical variables.
 Applied undersampling to address data imbalance.
