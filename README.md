@@ -1,6 +1,6 @@
 # ml_project1
 
-Using ML in Predicting Car Insurance Sales
+Using ML to predict car insurance sales
 
 - Data Overview: Analyzed data for 304,887 customers, identifying a target variable imbalance with only 12.2% showing interest in car insurance.
 - Key Findings from EDA:
